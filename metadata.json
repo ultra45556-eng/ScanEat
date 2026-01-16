@@ -1,0 +1,7 @@
+{
+  "name": "ScanPro AI",
+  "description": "A high-performance QR scanner app with real-time detection, history tracking, and AI-powered content analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
